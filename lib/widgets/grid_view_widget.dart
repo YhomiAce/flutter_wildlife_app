@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_app/screens/animal_details_screen.dart';
+import '../../screens/animal_details_screen.dart';
 
 class GridViewWidget extends StatelessWidget {
   final int elements;

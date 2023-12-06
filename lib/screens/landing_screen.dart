@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_app/app_utils/utilities.dart';
-import 'package:shopping_app/screens/content_screen.dart';
-import 'package:shopping_app/screens/gellery_screen.dart';
-import 'package:shopping_app/screens/video_content_screen.dart';
+import '../../app_utils/utilities.dart';
+import '../../screens/content_screen.dart';
+import '../../screens/gellery_screen.dart';
+import '../../screens/video_content_screen.dart';
 
 class LandingScreen extends StatefulWidget {
   const LandingScreen({super.key});

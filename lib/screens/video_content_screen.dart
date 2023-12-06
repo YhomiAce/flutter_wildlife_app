@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_app/app_utils/utilities.dart';
-import 'package:shopping_app/screens/video_player_screen.dart';
+import '../../app_utils/utilities.dart';
+import '../../screens/video_player_screen.dart';
 
 class VideoContentScreen extends StatefulWidget {
   const VideoContentScreen({super.key});

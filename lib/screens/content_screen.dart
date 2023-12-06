@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_app/app_utils/utilities.dart';
-import 'package:shopping_app/widgets/grid_view_widget.dart';
-import 'package:shopping_app/widgets/list_view_widget.dart';
+import '../../app_utils/utilities.dart';
+import '../../widgets/grid_view_widget.dart';
+import '../../widgets/list_view_widget.dart';
 
 class ContentScreen extends StatefulWidget {
   const ContentScreen({super.key});

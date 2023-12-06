@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_app/app_utils/utilities.dart';
+import '../../app_utils/utilities.dart';
 
 class AnimalDetailScreen extends StatefulWidget {
   final Map<String, dynamic> animal;

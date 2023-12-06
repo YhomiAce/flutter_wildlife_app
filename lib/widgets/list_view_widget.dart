@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_app/app_utils/utilities.dart';
-import 'package:shopping_app/screens/animal_details_screen.dart';
-import 'package:shopping_app/widgets/slider_widget.dart';
+import '../../app_utils/utilities.dart';
+import '../../screens/animal_details_screen.dart';
+import '../../widgets/slider_widget.dart';
 
 class ListViewWidget extends StatelessWidget {
   final int elements;
