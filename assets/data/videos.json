@@ -1,0 +1,42 @@
+[
+  {
+    "id" : "anaconda",
+    "name" : "Anaconda",
+    "headline" : "The world's largest snake"
+  },
+  {
+    "id" : "capybara",
+    "name" : "Capybara",
+    "headline" : "The world's largest rodent"
+  },
+  {
+    "id" : "eagle",
+    "name" : "Harpy Eagle",
+    "headline" : "Their talons can be as long as a grizzly bear's claws."
+  },
+  {
+    "id" : "macaw",
+    "name" : "Macaw",
+    "headline" : "They are known for their ability to mimic human speech and sounds."
+  },
+  {
+    "id" : "monkey",
+    "name" : "Howler Monkey",
+    "headline" : "They are one of the largest and heaviest among New World monkeys."
+  },
+  {
+    "id" : "sloth",
+    "name" : "Sloth",
+    "headline" : "They are skilled swimmers and can move surprisingly quickly in water."
+  },
+  {
+    "id" : "tapir",
+    "name" : "Tapir",
+    "headline" : "The Amazonian tapir is the largest of all tapir species."
+  },
+  {
+    "id" : "toucan",
+    "name" : "Toucan",
+    "headline" : "Toucans have a distinctive waddle while walking."
+  }
+]

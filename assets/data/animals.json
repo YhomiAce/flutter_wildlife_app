@@ -1,0 +1,207 @@
+[
+  {
+    "name" : "Anaconda",
+    "headline" : "The world's largest snake, the anaconda is a fearsome predator of the Amazon waterways, known for its enormous size.",
+    "description" : "The anaconda is the largest snake species in the world and is commonly found in the waterways of the Amazon Rainforest. These massive constrictors are skilled swimmers and powerful predators, preying on a variety of aquatic and terrestrial animals.",
+    "image" : "anaconda",
+    "cover-image" : "cover-capybara.jpg",
+    "gallery" : [
+      "anaconda-1",
+      "anaconda-2",
+      "anaconda-3",
+      "anaconda-4"
+    ],
+    "fact" : [
+      "Anacondas are non-venomous snakes that use constriction to subdue their prey.",
+      "They are known for their ability to swallow large prey whole, such as capybaras and deer.",
+      "Anacondas are excellent swimmers and are often found in rivers and swamps."
+    ]
+  },
+  {
+    "name" : "Giant Anteater",
+    "headline" : "With its long snout and impressive tongue, the giant anteater is a unique insect-eating mammal of the Amazon Rainforest.",
+    "description" : "Giant anteaters are large, insectivorous mammals with long snouts and tongues. They primarily feed on ants and termites and are equipped with sharp claws for digging into termite mounds. They are solitary and elusive creatures.",
+    "image" : "anteater",
+    "gallery" : [
+      "anteater-1",
+      "anteater-2",
+      "anteater-3",
+      "anteater-4"
+    ],
+    "fact" : [
+      "Their long, bushy tail provides camouflage and protection against the sun and rain.",
+      "Giant anteaters have poor eyesight but an excellent sense of smell to locate ants and termites.",
+      "They can consume thousands of insects in a single day."
+    ]
+  },
+  {
+    "name" : "Capybara",
+    "headline" : "The world's largest rodent, capybaras are social creatures found near water bodies in the Amazon, known for their gentle nature.",
+    "description" : "Capybaras are the largest rodents in the world and are often seen near water in the Amazon Rainforest. They are known for their social behavior, often forming groups and sharing a strong bond with one another.",
+    "image" : "capybara",
+    "gallery" : [
+      "capybara-1",
+      "capybara-2",
+      "capybara-3",
+      "capybara-4"
+    ],
+    "fact" : [
+      "Capybaras are excellent swimmers and can stay submerged for several minutes.",
+      "They are herbivores, primarily feeding on grasses and aquatic plants.",
+      "Capybaras are popular in the pet trade in some regions."
+    ]
+  },
+  {
+    "name" : "Harpy Eagle",
+    "headline" : "As the Amazon's largest and most powerful eagle, the harpy eagle is a symbol of the rainforest's majestic avian life.",
+    "description" : "Harpy eagles are the largest eagles in the Amazon Rainforest, with powerful talons and a striking appearance. They are skilled hunters that primarily feed on tree-dwelling mammals and birds.",
+    "image" : "eagle",
+    "gallery" : [
+      "eagle-1",
+      "eagle-2",
+      "eagle-3",
+      "eagle-4"
+    ],
+    "fact" : [
+      "Harpy eagles are considered near-threatened due to habitat loss.",
+      "They have large nests made of sticks, and their chicks require a long period of parental care.",
+      "Their talons can be as long as a grizzly bear's claws."
+    ]
+  },
+  {
+    "name" : "Red-eyed Tree Frog",
+    "headline" : " Instantly recognizable for their vibrant colors and iconic red eyes, these frogs are a symbol of Amazon's amphibian diversity.",
+    "description" : "Red-eyed tree frogs are small, brightly colored amphibians with vibrant green bodies and striking red eyes. They are arboreal, living in trees and bushes near water bodies. These frogs are known for their distinctive appearance and sticky toe pads.",
+    "image" : "frog",
+    "gallery" : [
+      "frog-1",
+      "frog-2",
+      "frog-3",
+      "frog-4"
+    ],
+    "fact" : [
+      "Red-eyed tree frogs are primarily nocturnal and are most active at night.",
+      "Their striking colors serve as a defense mechanism, warning predators of their potential toxicity.",
+      "These frogs lay their eggs on leaves overhanging water, and tadpoles drop into the water when they hatch."
+    ]
+  },
+  {
+    "name" : "Jaguar",
+    "headline" : "The Amazon's apex predator, jaguars are known for their striking rosette-patterned fur and powerful hunting skills.",
+    "description" : "Jaguars are the third-largest big cats in the world, found in the Amazon Rainforest. They are excellent swimmers and agile climbers, making them formidable predators. Known for their distinctive rosette patterns on their fur, jaguars play a crucial role in maintaining the rainforest's ecosystem.",
+    "image" : "jaguar",
+    "gallery" : [
+      "jaguar-1",
+      "jaguar-2",
+      "jaguar-3",
+      "jaguar-4"
+    ],
+    "fact" : [
+      "Jaguars are solitary animals and are often seen alone.",
+      "They have one of the most powerful bites among big cats.",
+      "Jaguar populations are threatened by habitat loss and poaching."
+    ]
+  },
+  {
+    "name" : "Macaw",
+    "headline" : "With their vibrant plumage and raucous calls, macaws are a symbol of the Amazon Rainforest's avian diversity.",
+    "description" : "Macaws are large, colorful parrots known for their striking plumage and loud calls. They are a diverse group of birds found throughout the Amazon, playing a vital role in seed dispersal and the rainforest's ecology.",
+    "image" : "macaw",
+    "gallery" : [
+      "macaw-1",
+      "macaw-2",
+      "macaw-3",
+      "macaw-4"
+    ],
+    "fact" : [
+      "Macaws are among the largest parrot species globally and have strong beaks for cracking open nuts and seeds.",
+      "They are known for their ability to mimic human speech and sounds.",
+      "Macaws are threatened by habitat loss and the illegal pet trade."
+    ]
+  },
+  {
+    "name" : "Howler Monkey",
+    "headline" : "Known for their loud vocalizations, howler monkeys are iconic Amazon Rainforest primates with distinctive prehensile tails.",
+    "description" : "Howler monkeys are large, New World monkeys known for their vocalizations that can be heard from a long distance. They primarily inhabit the treetops of the Amazon Rainforest, feeding on leaves and fruit.",
+    "image" : "monkey",
+    "gallery" : [
+      "monkey-1",
+      "monkey-2",
+      "monkey-3",
+      "monkey-4"
+    ],
+    "fact" : [
+      "Howler monkeys have specialized throat anatomy that allows them to produce their distinctive calls.",
+      "They are one of the largest and heaviest among New World monkeys.",
+      "Howler monkeys are important seed dispersers in the rainforest ecosystem."
+    ]
+  },
+  {
+    "name" : "Giant River Otter",
+    "headline" : "As the Amazon's top predator in its waterways, giant river otters are known for their playful behavior and family-oriented lifestyle.",
+    "description" : "Giant river otters are the largest otter species in the world and can be found in Amazonian rivers and lakes. They are social animals, often living in family groups and known for their playful and inquisitive nature.",
+    "image" : "otter",
+    "gallery" : [
+      "otter-1",
+      "otter-2",
+      "otter-3",
+      "otter-4"
+    ],
+    "fact" : [
+      "Giant river otters are skilled hunters, preying on fish and other aquatic creatures.",
+      "They are highly vocal, communicating with each other through a wide range of calls.",
+      "Giant river otters are endangered due to habitat destruction and hunting."
+    ]
+  },
+  {
+    "name" : "Sloth",
+    "headline" : "Slow-moving and arboreal, sloths are fascinating creatures of the Amazon canopy, known for their relaxed lifestyle.",
+    "description" : "Sloths are arboreal mammals known for their extremely slow movements. They are well adapted to life in the treetops, where they feed on leaves. Sloths are known for their docile nature and unique physiology.",
+    "image" : "sloth",
+    "gallery" : [
+      "sloth-1",
+      "sloth-2",
+      "sloth-3",
+      "sloth-4"
+    ],
+    "fact" : [
+      "Sloths have an extremely slow metabolism, which contributes to their leisurely pace of life.",
+      "They are skilled swimmers and can move surprisingly quickly in water.",
+      "Sloths spend the majority of their lives in trees and come down to the ground only to defecate."
+    ]
+  },
+  {
+    "name" : "Tapir",
+    "headline" : "Known for their endearing appearance, tapirs are ancient, herbivorous mammals of the Amazon Rainforest.",
+    "description" : "Tapirs are large, herbivorous mammals with unique trunk-like noses. They are known for their solitary and shy nature. Tapirs play an essential role in seed dispersal and maintaining the rainforest's health.",
+    "image" : "tapir",
+    "gallery" : [
+      "tapir-1",
+      "tapir-2",
+      "tapir-3",
+      "tapir-4"
+    ],
+    "fact" : [
+      "Tapirs are excellent swimmers and spend a lot of time in water.",
+      "They are distantly related to horses and rhinoceroses.",
+      "The Amazonian tapir is the largest of all tapir species."
+    ]
+  },
+  {
+    "name" : "Toucan",
+    "headline" : "Known for their vibrant beaks and distinctive calls, toucans are iconic birds of the Amazon Rainforest canopy.",
+    "description" : "Toucans are medium-sized birds with large, colorful bills. They are famous for their unique and vibrant beaks, which come in various colors. Toucans primarily feed on fruits and are important seed dispersers in the rainforest.",
+    "image" : "toucan",
+    "gallery" : [
+      "toucan-1",
+      "toucan-2",
+      "toucan-3",
+      "toucan -4"
+    ],
+    "fact" : [
+      "Toucans have a distinctive waddle while walking.",
+      "They are skilled fliers and are known for their acrobatic flight.",
+      "Toucans are social birds and often seen in small groups."
+    ]
+  }
+]
